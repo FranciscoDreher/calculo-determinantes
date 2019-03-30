@@ -61,7 +61,6 @@ int main()
 	
 	system("cls");
 	
-	cout << "\nDesarrollado por Francisco Elias Dreher";
 	getch();
 	
 	return 0;
