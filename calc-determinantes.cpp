@@ -1,3 +1,24 @@
+/*
+ * Calculo de Determinantes
+ * It allows to calculate determinants of up to order 4.
+ * LICENSE: This file is part of calculo-determinantes.
+ * calculo-determinantes is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ * calculo-determinantes is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+ * GNU General Public License for more details.
+ * You should have received a copy of the GNU General Public License
+ * along with calculo-determinantes. If not, see <http://www.gnu.org/licenses/>.
+ * @copyright Copyright (c) 2014 Francisco Elias Dreher (<>)
+ * @license http://www.gnu.org/licenses/ GPL License
+ * @version 1.0
+ * @link <>
+ * @since File available since Release 1.0
+*/
+
 #include <iostream>
 #include <stdlib.h>
 #include <conio.h>
